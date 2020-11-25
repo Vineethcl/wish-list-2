@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Vineet</sys_created_by>
+        <sys_created_on>2020-11-25 09:00:51</sys_created_on>
+        <sys_id>aaa0f7b7db2020106d2458b3ca96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_434016_wish_list_wish_item.x_434016_wish_list.wish_item_user</sys_name>
+        <sys_package display_value="Wish List" source="x_434016_wish_list">08503733db2020106d2458b3ca961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">08503733db2020106d2458b3ca961972</sys_scope>
+        <sys_security_acl display_value="x_434016_wish_list_wish_item">2ea0f7b7db2020106d2458b3ca961989</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_aaa0f7b7db2020106d2458b3ca96198c</sys_update_name>
+        <sys_updated_by>Vineet</sys_updated_by>
+        <sys_updated_on>2020-11-25 09:00:51</sys_updated_on>
+        <sys_user_role display_value="x_434016_wish_list.wish_item_user" name="x_434016_wish_list.wish_item_user">c6a03773db2020106d2458b3ca961934</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
